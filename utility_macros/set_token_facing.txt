@@ -1,0 +1,2 @@
+[H: allTokenIds = getTokens("json")]
+[H, foreach(id,allTokenIds): setTokenShape("TOP DOWN",id)]

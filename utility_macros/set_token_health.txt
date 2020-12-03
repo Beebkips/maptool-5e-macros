@@ -1,0 +1,6 @@
+[h: HP = getProperty("HP")]
+[h: MaxHP = getProperty("MaxHP")]
+[h: HPP = HP / if(MaxHP > 0, MaxHP, 1)]
+[h: HPP = if(HPP < 0, 0, HPP)]
+[h: setBarVisible("Health", 1)]
+[h: setBar("Health", HPP)]

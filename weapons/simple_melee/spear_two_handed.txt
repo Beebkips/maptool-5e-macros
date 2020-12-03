@@ -1,0 +1,12 @@
+<br><font size=5><b>Spear</b></font>
+<br><font size=2>Piercing - Thrown (20/60) - Versatile (1d8)</font>
+[h: ar = d20]
+[h: hm = 0]
+[h: dm = 0]
+<br><font size=4>Roll: <b>[r: ar] + [r: hm] = [r: ar+hm]</b></font>
+[h: dr = 1d8]
+<br><font size=4>Damage: <b>[r: dr] + [r: dm] = [r: dr+dm]</b></font>
+[if(ar == 20), CODE:{
+	<br><font color=red><b>CRITCAL HIT</b></font>
+};{}]
+<br><font size=2><i>Flavor</font></i>

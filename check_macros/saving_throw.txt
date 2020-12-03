@@ -1,0 +1,13 @@
+[h:input("abl|STR,DEX,CON,INT,WIS,CHA|Ability|LIST|SELECT=0 VALUE=STRING","tra|0|Trained|CHECK")]
+[h: hm = 0]
+[switch(abl), code:
+case "STR": {[h: hm = round(math.floor((getProperty("Strength") - 10)/2))]};
+case "DEX": {[h: hm = round(math.floor((getProperty("Dexterity") - 10)/2))]};
+case "CON": {[h: hm = round(math.floor((getProperty("Constitution") - 10)/2))]};
+case "INT": {[h: hm = round(math.floor((getProperty("Intelligence") - 10)/2))]};
+case "WIS": {[h: hm = round(math.floor((getProperty("Wisdom") - 10)/2))]};
+case "CHA": {[h: hm = round(math.floor((getProperty("Charisma") - 10)/2))]};
+default: {[h: hm = 0]}]
+[h: ar = d20]
+[h: tot = if(tra == 1, ar+hm+getProperty("Proficiency"), ar+hm)]
+<br><font size=4>[r: abl] Ability Check: <b>[r: tot]</b> ([r: ar])</font>

@@ -1,0 +1,8 @@
+[h:status = input("hpChange|0|Heal Amount")]
+[h:abort(status)]
+[h: MaxHP = getProperty("MaxHP")]
+[h:diff = MaxHP - HP]
+[h:HP = min(HP+hpChange, MaxHP)]
+[h:bar.Health = HP / MaxHP]
+<br><font size=3><b>Heals for</b></font>
+<br><font color="green" size=5>[r:min(diff,hpChange)]</font>
