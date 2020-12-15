@@ -1,0 +1,8 @@
+<br><font size=5><b>Longstrider</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (a pinch of dirt)
+<br><b>Duration:</b> 1 hour
+<br>
+You touch a creature. The target's speed increases by 10 feet until the spell ends.

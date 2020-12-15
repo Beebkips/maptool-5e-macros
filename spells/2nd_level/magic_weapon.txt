@@ -1,0 +1,8 @@
+<br><font size=5><b>Magic Weapon</b></font>
+<br><font size=2>2nd-level Transmutation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.

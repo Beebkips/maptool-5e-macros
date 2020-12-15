@@ -1,0 +1,8 @@
+<br><font size=5><b>Blur</b></font>
+<br><font size=2>2nd-level Illusion</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.

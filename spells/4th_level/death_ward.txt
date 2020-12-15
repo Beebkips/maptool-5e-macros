@@ -1,0 +1,8 @@
+<br><font size=5><b>Death Ward</b></font>
+<br><font size=2>4th-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> 8 hours
+<br>
+You touch a creature and grant it a measure of protection from death.The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.

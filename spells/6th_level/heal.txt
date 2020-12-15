@@ -1,0 +1,8 @@
+<br><font size=5><b>Heal</b></font>
+<br><font size=2>6th-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.

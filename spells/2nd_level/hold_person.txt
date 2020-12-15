@@ -1,0 +1,8 @@
+<br><font size=5><b>Hold Person</b></font>
+<br><font size=2>2nd-level Enchantment</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S, M (a small, straight piece of iron)
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.

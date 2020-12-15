@@ -1,0 +1,8 @@
+<br><font size=5><b>Foresight</b></font>
+<br><font size=2>9th-level Divination</font>
+<br><b>Casting Time:</b> 1 Minute
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (a hummingbird feather)
+<br><b>Duration:</b> 8 hours
+<br>
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.This spell immediately ends if you cast it again before its duration ends.

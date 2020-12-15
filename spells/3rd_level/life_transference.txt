@@ -1,0 +1,8 @@
+<br><font size=5><b>Life Transference</b></font>
+<br><font size=2>3rd-level Necromancy</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+You sacrifice some of your health to mend another creature's injuries. You take 4d8 necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.

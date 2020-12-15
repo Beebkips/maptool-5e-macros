@@ -1,0 +1,8 @@
+<br><font size=5><b>Cone of Cold</b></font>
+<br><font size=2>5th-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self (60-foot cone)
+<br><b>Components:</b> V, S, M (a small crystal or glass cone)
+<br><b>Duration:</b> Instantaneous
+<br>
+A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.A creature killed by this spell becomes a frozen statue until it thaws.

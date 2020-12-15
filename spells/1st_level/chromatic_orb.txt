@@ -1,0 +1,8 @@
+<br><font size=5><b>Chromatic Orb</b></font>
+<br><font size=2>1st-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 90 feet
+<br><b>Components:</b> V, S, M (a diamond worth at least 50 gp)
+<br><b>Duration:</b> Instantaneous
+<br>
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.

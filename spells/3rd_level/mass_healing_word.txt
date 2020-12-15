@@ -1,0 +1,8 @@
+<br><font size=5><b>Mass Healing Word</b></font>
+<br><font size=2>3rd-level Evocation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V
+<br><b>Duration:</b> Instantaneous
+<br>
+As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.

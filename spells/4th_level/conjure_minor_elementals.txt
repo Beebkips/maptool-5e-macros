@@ -1,0 +1,8 @@
+<br><font size=5><b>Conjure Minor Elementals</b></font>
+<br><font size=2>4th-level Conjuration</font>
+<br><b>Casting Time:</b> 1 Minute
+<br><b>Range:</b> 90 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:One elemental of challenge rating 2 or lowerTwo elementals of challenge rating 1 or lowerFour elementals of challenge rating 1/2 or lowerEight elementals of challenge rating 1/4 or lower.An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.The DM has the creatures' statistics.

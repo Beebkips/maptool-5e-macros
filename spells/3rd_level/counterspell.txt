@@ -1,0 +1,8 @@
+<br><font size=5><b>Counterspell</b></font>
+<br><font size=2>3rd-level Abjuration</font>
+<br><b>Casting Time:</b> Reaction
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> S
+<br><b>Duration:</b> Instantaneous
+<br>
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.

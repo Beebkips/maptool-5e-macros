@@ -1,0 +1,8 @@
+<br><font size=5><b>Ice Knife</b></font>
+<br><font size=2>1st-level Conjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> S, M (a drop of water or piece of ice)
+<br><b>Duration:</b> Instantaneous
+<br>
+You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.

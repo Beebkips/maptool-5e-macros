@@ -1,0 +1,8 @@
+<br><font size=5><b>Intellect Fortress</b></font>
+<br><font size=2>3rd-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on Intelligence, Wisdom, and Charisma saving throws.

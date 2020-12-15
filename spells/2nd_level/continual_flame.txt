@@ -1,0 +1,8 @@
+<br><font size=5><b>Continual Flame</b></font>
+<br><font size=2>2nd-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (ruby dust worth 50 gp, which the spell consumes)
+<br><b>Duration:</b> Until dispelled
+<br>
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.

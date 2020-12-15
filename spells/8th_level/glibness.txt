@@ -1,0 +1,8 @@
+<br><font size=5><b>Glibness</b></font>
+<br><font size=2>8th-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> 1 hour
+<br>
+Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.

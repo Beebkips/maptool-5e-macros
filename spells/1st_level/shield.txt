@@ -1,0 +1,8 @@
+<br><font size=5><b>Shield</b></font>
+<br><font size=2>1st-level Abjuration</font>
+<br><b>Casting Time:</b> Reaction
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> 1 round
+<br>
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.

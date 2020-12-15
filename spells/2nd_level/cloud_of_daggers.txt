@@ -1,0 +1,8 @@
+<br><font size=5><b>Cloud of Daggers</b></font>
+<br><font size=2>2nd-level Conjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S, M (a sliver of glass)
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.

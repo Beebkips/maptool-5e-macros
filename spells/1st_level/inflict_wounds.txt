@@ -1,0 +1,8 @@
+<br><font size=5><b>Inflict Wounds</b></font>
+<br><font size=2>1st-level Necromancy</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.

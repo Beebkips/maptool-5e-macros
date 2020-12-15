@@ -1,0 +1,8 @@
+<br><font size=5><b>Fog Cloud</b></font>
+<br><font size=2>1st-level Conjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 120 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.

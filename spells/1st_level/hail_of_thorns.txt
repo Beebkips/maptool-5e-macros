@@ -1,0 +1,8 @@
+<br><font size=5><b>Hail of Thorns</b></font>
+<br><font size=2>1st-level Conjuration</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.

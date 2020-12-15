@@ -1,0 +1,8 @@
+<br><font size=5><b>Scorching Ray</b></font>
+<br><font size=2>2nd-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 120 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.

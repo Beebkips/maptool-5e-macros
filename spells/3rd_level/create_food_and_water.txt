@@ -1,0 +1,8 @@
+<br><font size=5><b>Create Food and Water</b></font>
+<br><font size=2>3rd-level Conjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.

@@ -1,0 +1,8 @@
+<br><font size=5><b>Misty Step</b></font>
+<br><font size=2>2nd-level Conjuration</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> Instantaneous
+<br>
+Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.

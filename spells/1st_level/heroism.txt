@@ -1,0 +1,8 @@
+<br><font size=5><b>Heroism</b></font>
+<br><font size=2>1st-level Enchantment</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.

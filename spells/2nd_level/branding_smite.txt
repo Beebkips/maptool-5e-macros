@@ -1,0 +1,8 @@
+<br><font size=5><b>Branding Smite</b></font>
+<br><font size=2>2nd-level Evocation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.

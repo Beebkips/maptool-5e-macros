@@ -1,0 +1,8 @@
+<br><font size=5><b>Word of Radiance</b></font>
+<br><font size=2>Cantrip-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 5 feet
+<br><b>Components:</b> V, M (a holy symbol)
+<br><b>Duration:</b> Instantaneous
+<br>
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

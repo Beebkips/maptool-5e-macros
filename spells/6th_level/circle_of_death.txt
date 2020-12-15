@@ -1,0 +1,8 @@
+<br><font size=5><b>Circle of Death</b></font>
+<br><font size=2>6th-level Necromancy</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 150 feet
+<br><b>Components:</b> V, S, M (the powder of a crushed black pearl worth at least 500 gp)
+<br><b>Duration:</b> Instantaneous
+<br>
+A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.

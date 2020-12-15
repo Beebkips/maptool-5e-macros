@@ -1,0 +1,8 @@
+<br><font size=5><b>Jump</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (a grasshopper's hind leg)
+<br><b>Duration:</b> 1 minute
+<br>
+You touch a creature. The creature's jump distance is tripled until the spell ends.

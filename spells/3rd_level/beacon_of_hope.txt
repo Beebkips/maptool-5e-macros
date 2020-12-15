@@ -1,0 +1,8 @@
+<br><font size=5><b>Beacon of Hope</b></font>
+<br><font size=2>3rd-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.

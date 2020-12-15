@@ -1,0 +1,8 @@
+<br><font size=5><b>Healing Word</b></font>
+<br><font size=2>1st-level Evocation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V
+<br><b>Duration:</b> Instantaneous
+<br>
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.

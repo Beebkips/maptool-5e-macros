@@ -1,0 +1,8 @@
+<br><font size=5><b>Gravity Fissure</b></font>
+<br><font size=2>6th-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self (100-foot line)
+<br><b>Components:</b> V, S, M (a fistful of iron filings)
+<br><b>Duration:</b> Instantaneous
+<br>
+You manifest a ravine of gravitational energy in a line originating from you that is 100 feet long and 5 feet wide. Each creature in that line must make a Constitution saving throw, taking 8d8 force damage on a failed save, or half as much damage on a successful one.Each creature within 10 feet of the line but not in it must succeed on a Constitution saving throw or take 8d8 force damage and be pulled toward the line until the creature is in its area.

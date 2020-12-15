@@ -1,0 +1,8 @@
+<br><font size=5><b>Tasha's Mind Whip</b></font>
+<br><font size=2>2nd-level Enchantment</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 90 feet
+<br><b>Components:</b> V
+<br><b>Duration:</b> 1 round
+<br>
+You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.

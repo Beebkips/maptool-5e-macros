@@ -1,0 +1,8 @@
+<br><font size=5><b>Locate Animals or Plants</b></font>
+<br><font size=2>2nd-level Divination</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S, M (a bit of fur from a bloodhound)
+<br><b>Duration:</b> Instantaneous
+<br>
+Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.

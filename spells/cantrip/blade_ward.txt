@@ -1,0 +1,8 @@
+<br><font size=5><b>Blade Ward</b></font>
+<br><font size=2>Cantrip-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> 1 round
+<br>
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.

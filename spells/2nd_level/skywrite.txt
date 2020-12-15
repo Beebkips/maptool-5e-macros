@@ -1,0 +1,8 @@
+<br><font size=5><b>Skywrite</b></font>
+<br><font size=2>2nd-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Sight
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.

@@ -1,0 +1,8 @@
+<br><font size=5><b>Power Word Heal</b></font>
+<br><font size=2>9th-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs.

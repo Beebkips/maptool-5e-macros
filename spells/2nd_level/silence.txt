@@ -1,0 +1,8 @@
+<br><font size=5><b>Silence</b></font>
+<br><font size=2>2nd-level Illusion</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 120 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 10 minutes
+<br>
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.

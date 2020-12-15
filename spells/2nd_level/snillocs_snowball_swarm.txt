@@ -1,0 +1,8 @@
+<br><font size=5><b>Snilloc's Snowball Swarm</b></font>
+<br><font size=2>2nd-level Evocation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 90 feet
+<br><b>Components:</b> V, S, M (a piece of ice or a small white rock chip)
+<br><b>Duration:</b> Instantaneous
+<br>
+A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.

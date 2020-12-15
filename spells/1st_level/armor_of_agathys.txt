@@ -1,0 +1,8 @@
+<br><font size=5><b>Armor of Agathys</b></font>
+<br><font size=2>1st-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S, M (a cup of water)
+<br><b>Duration:</b> 1 hour
+<br>
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.

@@ -1,0 +1,8 @@
+<br><font size=5><b>False Life</b></font>
+<br><font size=2>1st-level Necromancy</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S, M (a small amount of alcohol or distilled spirits)
+<br><b>Duration:</b> 1 hour
+<br>
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.

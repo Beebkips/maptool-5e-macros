@@ -1,0 +1,8 @@
+<br><font size=5><b>Elemental Weapon</b></font>
+<br><font size=2>3rd-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.

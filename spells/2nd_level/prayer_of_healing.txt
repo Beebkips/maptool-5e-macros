@@ -1,0 +1,8 @@
+<br><font size=5><b>Prayer of Healing</b></font>
+<br><font size=2>2nd-level Evocation</font>
+<br><b>Casting Time:</b> 10 Minutes
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V
+<br><b>Duration:</b> Instantaneous
+<br>
+Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.

@@ -1,0 +1,8 @@
+<br><font size=5><b>Purify Food and Drink</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 10 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.

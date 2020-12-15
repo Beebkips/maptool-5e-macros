@@ -1,0 +1,8 @@
+<br><font size=5><b>See Invisibility</b></font>
+<br><font size=2>2nd-level Divination</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S, M (a pinch of Talc and a small sprinkling of powdered silver)
+<br><b>Duration:</b> 1 hour
+<br>
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.

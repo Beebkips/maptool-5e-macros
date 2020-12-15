@@ -1,0 +1,8 @@
+<br><font size=5><b>Create or Destroy Water</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
+<br><b>Duration:</b> Instantaneous
+<br>
+You either create or destroy water. Create Water. You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area. Destroy Water. You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.

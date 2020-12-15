@@ -1,0 +1,8 @@
+<br><font size=5><b>Protection from Poison</b></font>
+<br><font size=2>2nd-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> 1 hour
+<br>
+You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.

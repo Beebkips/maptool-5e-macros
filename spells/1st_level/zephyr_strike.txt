@@ -1,0 +1,8 @@
+<br><font size=5><b>Zephyr Strike</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Self
+<br><b>Components:</b> V
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+You move like the wind. Until the spell ends, your movement doesn't provoke opportunity attacks.Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.

@@ -1,0 +1,8 @@
+<br><font size=5><b>Aid</b></font>
+<br><font size=2>2nd-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (a tiny strip of white cloth)
+<br><b>Duration:</b> 8 hours
+<br>
+Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.

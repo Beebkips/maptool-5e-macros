@@ -1,0 +1,8 @@
+<br><font size=5><b>Feather Fall</b></font>
+<br><font size=2>1st-level Transmutation</font>
+<br><b>Casting Time:</b> Reaction
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, M (a small feather or a piece of down)
+<br><b>Duration:</b> 1 minute
+<br>
+Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.

@@ -1,0 +1,8 @@
+<br><font size=5><b>Divine Favor</b></font>
+<br><font size=2>1st-level Evocation</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> Self
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.

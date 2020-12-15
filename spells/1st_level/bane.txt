@@ -1,0 +1,8 @@
+<br><font size=5><b>Bane</b></font>
+<br><font size=2>1st-level Enchantment</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (a drop of blood)
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.

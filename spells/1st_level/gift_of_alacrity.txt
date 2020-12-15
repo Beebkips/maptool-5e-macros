@@ -1,0 +1,8 @@
+<br><font size=5><b>Gift of Alacrity</b></font>
+<br><font size=2>1st-level Divination</font>
+<br><b>Casting Time:</b> 1 Minute
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> 8 hours
+<br>
+You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.

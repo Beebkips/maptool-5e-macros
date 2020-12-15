@@ -1,0 +1,8 @@
+<br><font size=5><b>Tongues</b></font>
+<br><font size=2>3rd-level Divination</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, M (a small clay model of a ziggurat)
+<br><b>Duration:</b> 1 hour
+<br>
+This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.

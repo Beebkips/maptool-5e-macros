@@ -1,0 +1,8 @@
+<br><font size=5><b>Hellish Rebuke</b></font>
+<br><font size=2>1st-level Evocation</font>
+<br><b>Casting Time:</b> Reaction
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.

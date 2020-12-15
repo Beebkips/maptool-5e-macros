@@ -1,0 +1,8 @@
+<br><font size=5><b>Conjure Woodland Beings</b></font>
+<br><font size=2>4th-level Conjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S, M (one holly berry per creature summoned)
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:One fey creature of challenge rating 2 or lowerTwo fey creatures of challenge rating 1 or lowerFour fey creatures of challenge rating 1/2 or lowerEight fey creatures of challenge rating 1/4 or lowerA summoned creature disappears when it drops to 0 hit points or when the spell ends.The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.The DM has the creatures' statistics.

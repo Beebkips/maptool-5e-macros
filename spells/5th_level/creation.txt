@@ -1,0 +1,8 @@
+<br><font size=5><b>Creation</b></font>
+<br><font size=2>5th-level Illusion</font>
+<br><b>Casting Time:</b> 1 Minute
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (a tiny piece of matter of the same type of the item you plan to create)
+<br><b>Duration:</b> Special
+<br>
+You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.CreationMaterialDurationVegetable matter1 dayStone or crystal12 hoursPrecious metals1 hourGems10 minutesAdamantine or mithral1 minuteUsing any material created by this spell as another spell's material component causes that spell to fail.

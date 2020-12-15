@@ -1,0 +1,8 @@
+<br><font size=5><b>Bless</b></font>
+<br><font size=2>1st-level Enchantment</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (a sprinkling of holy water)
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.

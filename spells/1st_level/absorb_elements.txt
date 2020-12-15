@@ -1,0 +1,8 @@
+<br><font size=5><b>Absorb Elements</b></font>
+<br><font size=2>1st-level Abjuration</font>
+<br><b>Casting Time:</b> Reaction
+<br><b>Range:</b> Self
+<br><b>Components:</b> S
+<br><b>Duration:</b> 1 round
+<br>
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.

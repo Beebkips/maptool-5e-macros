@@ -1,0 +1,8 @@
+<br><font size=5><b>Invisibility</b></font>
+<br><font size=2>2nd-level Illusion</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (an eyelash encased in gum arabic)
+<br><b>Duration:</b> Concentration, up to 1 hour
+<br>
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.

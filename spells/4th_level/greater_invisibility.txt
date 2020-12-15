@@ -1,0 +1,8 @@
+<br><font size=5><b>Greater Invisibility</b></font>
+<br><font size=2>4th-level Illusion</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Concentration, up to 1 minute
+<br>
+You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.

@@ -1,0 +1,20 @@
+[h:input("slot|1st,2nd,3rd,4th,5th|Spell Slot|LIST|SELECT=0 VALUE=STRING")]
+[h: hm = "1d8"]
+[switch(slot), code:
+case "1st": {[h: hm = "1d8"]};
+case "2nd": {[h: hm = "2d8"]};
+case "3rd": {[h: hm = "3d8"]};
+case "4th": {[h: hm = "4d8"]};
+case "5th": {[h: hm = "5d8"]};
+default: {[h: hm = "1d8"]}]
+<br><font size=5><b>Cure Wounds</b></font>
+<br><font size=2>[r: slot]-level evocation</font>
+<br><b>Casting Time:</b> 1 action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S
+<br><b>Duration:</b> Instantaneous
+<br>
+A creature you touch regains a number of hit points equal to your [r: hm] + spellcasting ability modifier. This spell has no effect on undead or constructs.
+[h: hr = eval(hm)]
+[h: scm = 0]
+<br><b><font size=5 color=green>Heal: [r:hr] + [r: scm] = [r:hr + scm]</b></font>

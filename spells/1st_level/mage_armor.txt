@@ -1,0 +1,8 @@
+<br><font size=5><b>Mage Armor</b></font>
+<br><font size=2>1st-level Abjuration</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> Touch
+<br><b>Components:</b> V, S, M (a piece of cured leather)
+<br><b>Duration:</b> 8 hours
+<br>
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.

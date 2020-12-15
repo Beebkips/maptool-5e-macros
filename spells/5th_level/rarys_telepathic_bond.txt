@@ -1,0 +1,8 @@
+<br><font size=5><b>Rary's Telepathic Bond</b></font>
+<br><font size=2>5th-level Divination</font>
+<br><b>Casting Time:</b> Action
+<br><b>Range:</b> 30 feet
+<br><b>Components:</b> V, S, M (pieces of eggshell from two different kinds of creatures)
+<br><b>Duration:</b> 1 hour
+<br>
+You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.

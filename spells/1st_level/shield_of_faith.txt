@@ -1,0 +1,8 @@
+<br><font size=5><b>Shield of Faith</b></font>
+<br><font size=2>1st-level Abjuration</font>
+<br><b>Casting Time:</b> Bonus acn.
+<br><b>Range:</b> 60 feet
+<br><b>Components:</b> V, S, M (a small parchment with a bit of holy text written on it)
+<br><b>Duration:</b> Concentration, up to 10 minutes
+<br>
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
