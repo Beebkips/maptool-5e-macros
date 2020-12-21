@@ -1,0 +1,4 @@
+[h: ini = d20]
+[h: addToInitiative()]
+[h: setInitiative(ini+round(math.floor((getProperty("Dexterity") - 10)/2)))]
+<br><font size=4>Rolls Initiative: <b>[r: ini+round(math.floor((getProperty("Dexterity") - 10)/2))]</b> ([r: ini])</font>

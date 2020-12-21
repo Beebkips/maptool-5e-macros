@@ -1,0 +1,12 @@
+Strength (Str)
+Dexterity (Dex)
+Constitution (Con)
+Intelligence (Int)
+Wisdom (Wis)
+Charisma (Char)
+*#HP
+MaxHP
+TempHP
+*#AC
+Proficiency
+Movement (Mov)

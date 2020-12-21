@@ -1,0 +1,2 @@
+[h: status = input("thp|0|Temp HP")]
+[h: setProperty("TempHP", thp)]

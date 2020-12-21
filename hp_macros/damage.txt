@@ -1,9 +1,20 @@
-[h:status = input("hpChange|0|Damage Amount")]
-[h:abort(status)]
+[h: status = input("hpChange|0|Damage Amount")]
+[h: abort(status)]
 [h: MaxHP = getProperty("MaxHP")]
-[h:HP = HP - hpChange]
-[h:bar.Health = HP / MaxHP]
-[r:token.name] takes [r:hpChange] damage
+[h: TempHP = getProperty("TempHP")]
+[h, if(hpChange >= TempHP), code:
+{
+	[hpchange = hpchange - TempHP]
+	[TempHP = 0]
+};
+{
+	[TempHP = TempHP - hpChange]
+	[setProperty("TempHP", TempHP)]
+	[hpChange = 0]
+}]
+[h: HP = HP - hpChange]
+[h: bar.Health = HP / MaxHP]
+[r: token.name] takes [r: hpChange] damage
 <br><font size=3><b>Damage taken</b></font>
-<br><font color="red" size=5>[r:hpChange]</font>
+<br><font color="red" size=5>[r: hpChange]</font>
 [h, if(HP <= 0): setState("Dead", 1)]

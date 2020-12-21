@@ -1,5 +1,7 @@
 # Some maptool macros
 
+Macros required config files to be used
+
 Todo
 - ~~add weapons~~
 - ~~abiliy check~~
